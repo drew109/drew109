@@ -52,7 +52,8 @@
 - [Discord Bot aka Monke Bot🐒](https://github.com/drew109/Monke-Discord-Bot)
 -
 -
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drew109&layout)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drew109&layout=compact)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drew109&langs_count=8)]
 
 <details>
   <summary>:zap: GitHub Stats</summary>
