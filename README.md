@@ -53,7 +53,9 @@
 👀 Latest Activities
 
 <!-- Projects -->
-<right>
+<right1 href="https://github.com/drew109/Portfolio">
+Portfolio🗒️
+ </right1>
 - [Portfolio🗒️](https://github.com/drew109/Portfolio)
-- [Discord Bot aka Monke Bot🐒](https://github.com/drew109/Monke-Discord-Bot)
+- Discord Bot aka Monke Bot🐒(https://github.com/drew109/Monke-Discord-Bot)
 </right>
