@@ -44,23 +44,15 @@
 
 <hr style="border:1px solid gray"> </hr>
 
+<!-- Projects -->
+
+### ⚡GitHub Stats
+
+  <img align="left" alt="Neon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drew109&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 👀 Latest Activities
 
 <!-- Projects -->
 
 - [Portfolio🗒️](https://github.com/drew109/Portfolio)
 - [Discord Bot aka Monke Bot🐒](https://github.com/drew109/Monke-Discord-Bot)
--
--
-
-<img 
-     align="right" alt="Avatar" width="200px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=drew109&layout=compact"
-/>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Neon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drew109&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
