@@ -54,12 +54,9 @@
 -
 -
 
-<img
-align="right" alt="Stats" width="200px"
+<img align="right" alt="Stats" width="200px"
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drew109&layout=compact)
-
-/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drew109&layout=compact)/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
