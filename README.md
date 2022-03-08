@@ -2,16 +2,20 @@
 [comment]: <> (Credits to my friend https://github.com/Ethan-Francolla/Ethan-Francolla)
 
 ### Hey Im Neon, and I'm a highschool student in the U.S!!👋
+
 <hr style="border:2px solid gray"> </hr>
 
 <!--- pfp --->
+
 <img 
      align="left" alt="Avatar" width="200px" 
           src="https://avatars.githubusercontent.com/u/29808983?s=400&u=ceb9e5572367bd7e323b60313c61ce6238e14ce7&v=4" 
 />
 
 <!--- Info about me --->
+
 ### I'm a Student and Developer!
+
 - 📚 I’m currently learning JS and PY
 - ✔️ 2022 Goals: Learn more about JS
 - ⚡ Fun fact: I love Floppa 😻
@@ -20,6 +24,7 @@
 <hr style="border:2px solid gray"> </hr>
 
 <!--- My knowledge  --->
+
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -33,25 +38,25 @@
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" style="padding-right:10px;"/>
 
 <!--- Line+placeholder  --->
+
 &ensp;
+
 <hr style="border:1px solid gray"> </hr>
 
 👀 Latest Activities
 
 <!-- Projects -->
+
 - [Portfolio🗒️](https://github.com/drew109/Portfolio)
 - [Discord Bot aka Monke Bot🐒](https://github.com/drew109/Monke-Discord-Bot)
-- 
-- 
-- 
+-
+-
+-
 
+# Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
-
-
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
