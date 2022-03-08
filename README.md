@@ -52,9 +52,11 @@
 - [Discord Bot aka Monke Bot🐒](https://github.com/drew109/Monke-Discord-Bot)
 -
 -
-- <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drew109&layout=compact)
-  </p>
+
+<img 
+     align="right" alt="Avatar" width="200px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=drew109&layout=compact"
+/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
