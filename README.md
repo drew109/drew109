@@ -1,4 +1,5 @@
 [comment]: <> (Credits to https://github.com/codeSTACKr I give my credits im not a skid)
+[comment]: <> (Credits to https://github.com/anuraghazra/github-readme-stats)
 [comment]: <> (Credits to my friend https://github.com/Ethan-Francolla/Ethan-Francolla)
 
 ### Hey Im Neon, and I'm a highschool student in the U.S!!👋
