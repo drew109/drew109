@@ -54,8 +54,6 @@
 
 <!-- Projects -->
 <right>
-- Portfolio🗒️
-     (https://github.com/drew109/Portfolio)
-- Discord Bot aka Monke Bot🐒
-     (https://github.com/drew109/Monke-Discord-Bot)
+- Portfolio🗒️(https://github.com/drew109/Portfolio)
+- Discord Bot aka Monke Bot🐒(https://github.com/drew109/Monke-Discord-Bot)
 </right>
