@@ -60,8 +60,6 @@
      </a>
 </div>
 
-&ensp;
-
 <div class="right">
      <a href="https://github.com/drew109/Monke-Discord-Bot">
      - Discord Bot aka Monke Bot🐒
