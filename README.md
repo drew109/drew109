@@ -53,7 +53,17 @@
 👀 Latest Activities
 
 <!-- Projects -->
-<right>
-- [Portfolio🗒️](https://github.com/drew109/Portfolio)
-- [Discord Bot aka Monke Bot🐒](https://github.com/drew109/Monke-Discord-Bot)
-</right>
+
+<div class="right">
+     <a href="https://github.com/drew109/Portfolio">
+     - Neon's Portfolio🗒️
+     </a>
+</div>
+
+&ensp;
+
+<div class="right">
+     <a href="https://github.com/drew109/Monke-Discord-Bot">
+     - Discord Bot aka Monke Bot🐒
+     </a>
+</div>
