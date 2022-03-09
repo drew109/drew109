@@ -53,6 +53,9 @@
 👀 Latest Activities
 
 <!-- Projects -->
-<right href="https://github.com/drew109/Portfolio">
+
+<div class="right">
+<a href="https://github.com/drew109/Portfolio">
 Portfolio🗒️
-</right>
+</a>
+</div>
