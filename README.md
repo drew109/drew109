@@ -55,7 +55,15 @@
 <!-- Projects -->
 
 <div class="right">
-<a href="https://github.com/drew109/Portfolio">
-Portfolio🗒️
-</a>
+     <a href="https://github.com/drew109/Portfolio">
+     - Neon's Portfolio🗒️
+     </a>
 </div>
+
+
+<div class="right">
+     <a href="https://github.com/drew109/Monke-Discord-Bot">
+     - Discord Bot aka Monke Bot🐒
+     </a>
+</div>
+
