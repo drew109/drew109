@@ -59,6 +59,13 @@
 
 <div class="right">
      <a href="https://github.com/drew109/Portfolio">
+     - Horse-Race🐎
+     </a>
+</div>
+
+
+<div class="right">
+     <a href="https://github.com/drew109/Horse-Race">
      - Neon's Portfolio🗒️
      </a>
 </div>
@@ -68,3 +75,6 @@
      - Discord Bot aka Monke Bot🐒
      </a>
 </div>
+
+
+
