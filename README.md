@@ -59,7 +59,7 @@
 
 <div class="right">
      <a href="https://github.com/drew109/Youtube-Video-Downloader">
-     - Youtube-Video+Audio-Download⬇️
+     - Youtube-Media-Download⬇️
      </a>
 </div>
 
