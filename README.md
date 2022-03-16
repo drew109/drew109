@@ -58,6 +58,13 @@
 <!-- Projects -->
 
 <div class="right">
+     <a href="https://github.com/drew109/Ad-Blocker">
+     - Ad-Blocker🛑
+     </a>
+</div>
+
+
+<div class="right">
      <a href="https://github.com/drew109/Youtube-Video-Downloader">
      - Youtube-Media-Download⬇️
      </a>
@@ -76,10 +83,6 @@
      </a>
 </div>
 
-<div class="right">
-     <a href="https://github.com/drew109/Monke-Discord-Bot">
-     - Discord Bot aka Monke Bot🐒
-     </a>
-</div>
+
 
 
