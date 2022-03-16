@@ -59,7 +59,7 @@
 
 <div class="right">
      <a href="https://github.com/drew109/Ad-Blocker">
-     - Ad-Blocker🛑
+     - Ad-Blocker 🛑
      </a>
 </div>
 
