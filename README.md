@@ -5,7 +5,7 @@
 
 
 <!--- Info about me --->
-### Hey Im Neon, and I'm a highschool student in the U.S!!<a href="https://github.com/drew109"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hey Im Neon, and I'm a high school student in the U.S!!<a href="https://github.com/drew109"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <hr style="border:2px solid gray"> </hr>
 
