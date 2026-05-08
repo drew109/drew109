@@ -1,90 +1,93 @@
-<!--- Credits --->
-[comment]: <> (Credits to https://github.com/codeSTACKr I give my credits im not a skid)
-[comment]: <> (Credits to https://github.com/anuraghazra/github-readme-stats)
-[comment]: <> (Credits to my friend https://github.com/Ethan-Francolla/Ethan-Francolla)
+<!-- Profile README -->
 
-
-<!--- Info about me --->
-### Hey Im Neon, and I'm a high school student in the U.S!!<a href="https://github.com/drew109"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hey, I'm Andrew <a href="https://github.com/drew109"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <hr style="border:2px solid gray"> </hr>
-
-<!--- pfp --->
 
 <img 
-     align="left" alt="Avatar" width="200px" 
-          src="https://avatars.githubusercontent.com/u/29808983?s=400&u=ceb9e5572367bd7e323b60313c61ce6238e14ce7&v=4" 
+     align="left" 
+     alt="Avatar" 
+     width="200px" 
+     src="https://avatars.githubusercontent.com/u/29808983?s=400&u=ceb9e5572367bd7e323b60313c61ce6238e14ce7&v=4" 
 />
 
-<!--- Info about me --->
+### Cybersecurity Student | Developer | Builder
 
-### I'm a Student and Developer!
+I'm a cybersecurity student and developer who likes building real projects that mix security, automation, web development, and AI.
 
-- 📚 I’m currently learning JS and PY
-- ✔️ 2022 Goals: Learn more about JS
-- ⚡ Fun fact: I love Floppa 😻
+Right now, I work with Python, JavaScript, HTML/CSS, Linux, Git, and automation tools. I’m especially interested in cybersecurity projects, OSINT tools, AI assistants, web apps, and practical scripts that solve real problems.
 
-<!--- Line  --->
+- 🎓 Cybersecurity major  
+- 🔐 CompTIA Network+ certified  
+- 🛠️ Building security tools, automation scripts, and web projects  
+- 🧠 Interested in AI, OSINT, cloud, and defensive security  
+- 💻 Main tools: VS Code, Kali Linux, GitHub, Python, JavaScript  
+
 <hr style="border:2px solid gray"> </hr>
 
-<!--- My knowledge  --->
-
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Python" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" style="padding-right:10px;" />
-<img align="left" alt="LUA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gitpod" width="26px" src="https://avatars.githubusercontent.com/u/37021919?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" style="padding-right:10px;"/>
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Kali Linux" width="26px" src="https://www.kali.org/images/kali-logo.svg" style="padding-right:10px;" />
+<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 
-<!--- Line+placeholder  --->
-
-&ensp;
+<br />
+<br />
 
 <hr style="border:1px solid gray"> </hr>
 
-<!-- Projects -->
+### Current Focus
 
-### ⚡GitHub Stats
+- Building cybersecurity portfolio projects  
+- Creating Python tools with clean GUIs  
+- Working with Linux, automation, and scripting  
+- Learning more about cloud security and AI-powered security tools  
+- Improving full-stack web development skills  
 
-  <img align="left" alt="Neon's GitHub Stats" width="600px" src="https://github-readme-stats.vercel.app/api?username=drew109&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<hr style="border:1px solid gray"> </hr>
 
-### 👀 Latest Activities
-
-<!-- Projects -->
-
-<div class="right">
-     <a href="https://github.com/drew109/Ad-Blocker">
-     - Ad-Blocker 🛑
-     </a>
-</div>
-
-
-<div class="right">
-     <a href="https://github.com/drew109/Youtube-Video-Downloader">
-     - Youtube-Media-Download⬇️
-     </a>
-</div>
+### Featured Projects
 
 <div class="right">
      <a href="https://github.com/drew109/Portfolio">
-     - Horse-Race🐎
+     - Personal Portfolio 🗒️
      </a>
 </div>
 
+<div class="right">
+     <a href="https://github.com/drew109/Ad-Blocker">
+     - Ad Blocker 🛑
+     </a>
+</div>
+
+<div class="right">
+     <a href="https://github.com/drew109/Youtube-Video-Downloader">
+     - YouTube Media Downloader ⬇️
+     </a>
+</div>
 
 <div class="right">
      <a href="https://github.com/drew109/Horse-Race">
-     - Neon's Portfolio🗒️
+     - Horse Race Game 🐎
      </a>
 </div>
 
+<hr style="border:1px solid gray"> </hr>
 
+### GitHub Stats
 
-
+<img 
+     align="left" 
+     alt="Andrew's GitHub Stats" 
+     width="600px" 
+     src="https://github-readme-stats.vercel.app/api?username=drew109&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" 
+/>
