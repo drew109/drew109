@@ -1,93 +1,91 @@
-<!-- Profile README -->
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/header-mobile.png" />
+  <img src="assets/header.png" width="100%" alt="Drew Webster — Cybersecurity, Cloud, Software. Build with curiosity. Verify with evidence." />
+</picture>
 
-### Hey, I'm Andrew <a href="https://github.com/drew109"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<p align="center">
+  <a href="https://drewwebster.dev/"><strong>Portfolio</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/andrew-webster-cyber/"><strong>LinkedIn</strong></a> &nbsp; / &nbsp;
+  <a href="#selected-work"><strong>Selected work</strong></a>
+</p>
 
-<hr style="border:2px solid gray"> </hr>
+## Hey, I'm Drew.
 
-<img 
-     align="left" 
-     alt="Avatar" 
-     width="200px" 
-     src="https://avatars.githubusercontent.com/u/29808983?s=400&u=ceb9e5572367bd7e323b60313c61ce6238e14ce7&v=4" 
-/>
+I'm a **cybersecurity student at the University of Tampa**, graduating in **May 2027**. I like understanding how systems work, finding where they break, and building tools that make them more useful.
 
-### Cybersecurity Student | Developer | Builder
+My background brings together **IT support, coding instruction, security labs, and AI-assisted software development**. I'm especially interested in cloud security, identity and access, and practical automation.
 
-I'm a cybersecurity student and developer who likes building real projects that mix security, automation, web development, and AI.
+**CompTIA certified:** [Security+](https://cp.certmetrics.com/comptia/en/public/verify/credential/c934ed37428e44148de2cb7de5463d86) · [Network+](https://cp.certmetrics.com/comptia/en/public/verify/credential/6466397b39d14bbeab758d743a0ceb2f)
 
-Right now, I work with Python, JavaScript, HTML/CSS, Linux, Git, and automation tools. I’m especially interested in cybersecurity projects, OSINT tools, AI assistants, web apps, and practical scripts that solve real problems.
+## Selected work
 
-- 🎓 Cybersecurity major  
-- 🔐 CompTIA Network+ certified  
-- 🛠️ Building security tools, automation scripts, and web projects  
-- 🧠 Interested in AI, OSINT, cloud, and defensive security  
-- 💻 Main tools: VS Code, Kali Linux, GitHub, Python, JavaScript  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<hr style="border:2px solid gray"> </hr>
+<a href="https://github.com/drew109/aws-s3-cloudtrail-security-lab"><img src="assets/cloud.png" width="100%" alt="Cloud security — Identity and access" /></a>
 
-### Languages and Tools
+### [AWS identity & storage lab](https://github.com/drew109/aws-s3-cloudtrail-security-lab)
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Kali Linux" width="26px" src="https://www.kali.org/images/kali-logo.svg" style="padding-right:10px;" />
-<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+MFA-protected workforce access, group-based permissions, and secure S3 storage. Documented both allowed reads and denied writes, with CloudTrail audit evidence.
 
-<br />
-<br />
+<code>IAM Identity Center</code> <code>S3</code> <code>CloudTrail</code>
 
-<hr style="border:1px solid gray"> </hr>
+[Authorization tests →](https://github.com/drew109/aws-s3-cloudtrail-security-lab/blob/main/TEST_RESULTS.md)
 
-### Current Focus
+</td>
+<td width="50%" valign="top">
 
-- Building cybersecurity portfolio projects  
-- Creating Python tools with clean GUIs  
-- Working with Linux, automation, and scripting  
-- Learning more about cloud security and AI-powered security tools  
-- Improving full-stack web development skills  
+<a href="https://github.com/drew109/windows-security-detection-lab"><img src="assets/detection.png" width="100%" alt="Defensive security — Detection and triage" /></a>
 
-<hr style="border:1px solid gray"> </hr>
+### [Windows detection lab](https://github.com/drew109/windows-security-detection-lab)
 
-### Featured Projects
+PowerShell detections for failed logins, suspicious scripts, and local-admin changes. Synthetic Windows events become severity-ranked alerts with triage guidance.
 
-<div class="right">
-     <a href="https://github.com/drew109/Portfolio">
-     - Personal Portfolio 🗒️
-     </a>
-</div>
+<code>PowerShell</code> <code>Windows events</code> <code>MITRE ATT&CK</code>
 
-<div class="right">
-     <a href="https://github.com/drew109/Ad-Blocker">
-     - Ad Blocker 🛑
-     </a>
-</div>
+[Analyst report →](https://github.com/drew109/windows-security-detection-lab/blob/main/report/alert-report.md)
 
-<div class="right">
-     <a href="https://github.com/drew109/Youtube-Video-Downloader">
-     - YouTube Media Downloader ⬇️
-     </a>
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div class="right">
-     <a href="https://github.com/drew109/Horse-Race">
-     - Horse Race Game 🐎
-     </a>
-</div>
+<a href="https://github.com/drew109/owasp-juice-shop-security-assessment"><img src="assets/appsec.png" width="100%" alt="Application security — Test, explain, fix" /></a>
 
-<hr style="border:1px solid gray"> </hr>
+### [Web security assessment](https://github.com/drew109/owasp-juice-shop-security-assessment)
 
-### GitHub Stats
+An authorized, local OWASP Juice Shop assessment: scoped HTTP analysis, a validated SQL-injection authentication bypass, redacted evidence, and remediation guidance.
 
-<img 
-     align="left" 
-     alt="Andrew's GitHub Stats" 
-     width="600px" 
-     src="https://github-readme-stats.vercel.app/api?username=drew109&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" 
-/>
+<code>Burp Suite</code> <code>HTTP</code> <code>OWASP Top 10</code>
+
+[Assessment report →](https://github.com/drew109/owasp-juice-shop-security-assessment/blob/main/report/assessment-report.md)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://drewwebster.dev/"><img src="assets/portfolio.png" width="100%" alt="Software and automation — More of my work" /></a>
+
+### [Beyond the security labs](https://drewwebster.dev/)
+
+Explore my wider portfolio of web projects, desktop tools, and automation. I use AI coding tools in my development workflow, with an emphasis on testing, troubleshooting, and documentation.
+
+<code>Python</code> <code>JavaScript</code> <code>HTML / CSS</code> <code>Git</code>
+
+[Explore the portfolio →](https://drewwebster.dev/)
+
+</td>
+</tr>
+</table>
+
+## What I bring
+
+- **Support experience:** user accounts, Windows, Microsoft 365, VPN troubleshooting, and clear ticket notes.
+- **Technical communication:** coding instruction and cloud-learning outreach as an AWS Student Builder Community Leader.
+- **A practical approach:** define the scope, test expected and unexpected behavior, and make the results easy to follow.
+
+I work with **Python, PowerShell, JavaScript, HTML/CSS, Git, Windows, and Linux**. The projects above show where I've applied them.
+
+---
+
+**Let's connect.** I'm interested in opportunities in cybersecurity, cloud/IT support, and software automation. Find me on [LinkedIn](https://www.linkedin.com/in/andrew-webster-cyber/) or visit [drewwebster.dev](https://drewwebster.dev/).
